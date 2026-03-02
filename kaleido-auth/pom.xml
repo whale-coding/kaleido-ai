@@ -5,7 +5,6 @@
         <groupId>com.xiaoo</groupId>
         <artifactId>kaleido</artifactId>
         <version>1.0.0</version>
-        <relativePath>../../kaleido-server</relativePath>
     </parent>
 
     <artifactId>kaleido-auth</artifactId>
